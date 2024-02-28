@@ -21,3 +21,13 @@ By conducting A/B testing, Eletronic House can create two versions of their webs
 In this specific case, Eletronic House aims to achieve a conversion rate that is 2% higher than their current webpage. A/B testing allows them to objectively measure whether the modified layout (version B) meets this goal. If version B outperforms version A and achieves the desired 2% increase in conversion rate, Eletronic House can confidently implement the changes to their website, knowing that it is likely to result in higher sales.
 
 Overall, A/B testing provides Eletronic House with valuable insights into the effectiveness of different website layouts in driving conversions, helping them make data-driven decisions to optimize their e-commerce platform for increased sales and improved user experience.
+
+**Questions**
+
+---
+
+1. The conversion of the new webpage is really better than the current webpage?
+
+2. What is the potential number of sales that the new webpage can have?
+
+3. What is the total revenue of the bluetooth keyboard by the new webpage? (R$ 4500,00/keyboard)
