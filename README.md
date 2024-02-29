@@ -30,4 +30,4 @@ Overall, A/B testing provides Eletronic House with valuable insights into the ef
 
 2. What is the potential number of sales that the new webpage can have?
 
-3. What is the total revenue of the bluetooth keyboard by the new webpage? (R$ 4500,00/keyboard)
+3. What is the total revenue of the bluetooth keyboard for the new webpage? (R$ 4500,00/keyboard)
